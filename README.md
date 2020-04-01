@@ -1,3 +1,3 @@
-I dont know if I will finish this game so I figured I would just share the code 
+I don't know if I will make this game so I made a lil repo with the basic system.
 
 ![](Arm!.gif)
