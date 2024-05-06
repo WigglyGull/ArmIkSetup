@@ -1,3 +1,5 @@
-I don't know if I will make this game so I made a lil repo with the basic system.
+# Inverse Kinematic Setup
+
+A little project I made to learn how to implement inverse kinematics. 
 
 ![](Arm!.gif)
